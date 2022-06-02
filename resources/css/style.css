@@ -1,0 +1,85 @@
+body {
+	font-family:  Arial;
+	box-sizing: border-box;
+
+}
+
+/* Header */
+
+header {
+	height:  64px;
+	font-size:  32px;
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+span {	
+	text-transform: uppercase;
+}
+
+.academy {
+	color: gray;
+}
+
+.headercontainer {
+	display:  inline-block;
+	line-height:  190%;
+	white-space: non-wrap;
+}
+
+header img {
+	display:  inline-block;
+}
+
+nav {
+	font-size: 24px;
+	display:  inline-block;
+	float:  right;
+	line-height: 250%;
+}
+
+nav a {
+	text-decoration: none;
+	text-align:  center;
+	padding-right: 16px;
+	color: black;
+}
+
+/* Banner */
+
+.bannercontainer {
+	background-color:  lightgray;
+	display: inline-block;
+	border:  2px solid blue;
+	width:  100%;
+}
+
+.banner img {
+	border:  2px solid yellow;
+	width:  60%;
+	margin: 32px 24px;
+	display: inline-block;
+}
+
+.btncontainer {
+	border:  2px solid red;
+	width: 25%;
+	text-align: center;
+	display: inline-block;
+}
+
+h1 {
+	border:  2px solid green;
+}
+
+.btn {
+	background-color: gray;
+	padding-top: 8px;
+	padding-bottom:  8px;
+}
+
+.btn a {
+	text-decoration: none;
+	color:  white;
+}
+
